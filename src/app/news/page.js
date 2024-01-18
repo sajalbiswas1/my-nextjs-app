@@ -1,4 +1,7 @@
-
+export const metadata = {
+    title: 'News Page',
+    description: 'This is newsPage'
+}
 
 const NewsPage = () => {
     
